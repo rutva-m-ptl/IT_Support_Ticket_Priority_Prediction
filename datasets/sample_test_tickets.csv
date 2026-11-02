@@ -1,0 +1,7 @@
+initial_message,product_area,issue_type,customer_segment,channel,platform
+CRITICAL EMERGENCY: Authentication service crashed! Massive security breach attempt detected and customer accounts are completely locked out.,authentication,security_concern,enterprise,portal,web
+I was charged twice on my subscription invoice for this month and my credit card was billed double.,billing,bug,small_business,email,windows
+Overall system performance has degraded over the last few days when exporting reporting data.,reporting,performance,small_business,chat,mac
+Can you please update our company billing address and official contact name on our upcoming invoice?,billing,account_access,individual,in_app,android
+Mobile app keeps closing abruptly whenever I attempt to export transaction data to PDF.,data_export,bug,enterprise,portal,ios
+Need assistance with configuring API integration endpoints for our third-party authentication module.,api_integration,feature_request,small_business,email,web
